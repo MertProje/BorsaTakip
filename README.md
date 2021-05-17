@@ -1,0 +1,2 @@
+# BorsaTakip
+ Yazılım Yapımı Projesi
